@@ -1,0 +1,17 @@
+{ "_id" : { "$oid" : "62a0660ec29a302200956fdf" }, "second_level" : "Conqueror", "first_level" : "Precision" }
+{ "_id" : { "$oid" : "62a0662cc29a302200956fe1" }, "second_level" : "Electrocute", "first_level" : "Domination" }
+{ "_id" : { "$oid" : "62a06641c29a302200956fe4" }, "second_level" : "Press the Attack", "first_level" : "Precision" }
+{ "_id" : { "$oid" : "62a0664cc29a302200956fe6" }, "second_level" : "Aftershock", "first_level" : "Resolve" }
+{ "_id" : { "$oid" : "62a06680c29a302200956fec" }, "second_level" : "Lethal Tempo", "first_level" : "Precision" }
+{ "_id" : { "$oid" : "62a06694c29a302200956fef" }, "second_level" : "Summon Aery", "first_level" : "Sorcery" }
+{ "_id" : { "$oid" : "62a0669fc29a302200956ff1" }, "second_level" : "Guardian", "first_level" : "Resolve" }
+{ "_id" : { "$oid" : "62a066b3c29a302200956ff4" }, "second_level" : "Dark Harvest", "first_level" : "Domination" }
+{ "_id" : { "$oid" : "62a066c9c29a302200956ff8" }, "second_level" : "Grasp of the Undying", "first_level" : "Resolve" }
+{ "_id" : { "$oid" : "62a066d9c29a302200956ffc" }, "second_level" : "First Strike", "first_level" : "Inspiration" }
+{ "_id" : { "$oid" : "62a066efc29a302200957001" }, "second_level" : "Hail of Blades", "first_level" : "Domination" }
+{ "_id" : { "$oid" : "62a0670bc29a302200957007" }, "second_level" : "Predator", "first_level" : "Domination" }
+{ "_id" : { "$oid" : "62a0672dc29a30220095700e" }, "second_level" : "Fleet Footwork", "first_level" : "Precision" }
+{ "_id" : { "$oid" : "62a06733c29a302200957010" }, "second_level" : "Arcane Comet", "first_level" : "Sorcery" }
+{ "_id" : { "$oid" : "62a0677fc29a302200957019" }, "second_level" : "Glacial Augment", "first_level" : "Inspiration" }
+{ "_id" : { "$oid" : "62a068b7c29a30220095703d" }, "second_level" : "Unsealed Spellbook", "first_level" : "Inspiration" }
+{ "_id" : { "$oid" : "62a068d2c29a302200957043" }, "second_level" : "Phase Rush", "first_level" : "Sorcery" }
